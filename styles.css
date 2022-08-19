@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  margin-top: 14%;
+  justify-content: center;
+}
+
+div {
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+  cursor: pointer;
+  background-image: url('paper.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
